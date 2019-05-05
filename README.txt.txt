@@ -1,0 +1,1 @@
+These are coding assignments for the course of Computer Vision at The University of Texas at Dallas
